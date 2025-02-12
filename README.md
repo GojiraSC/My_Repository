@@ -1,2 +1,2 @@
 # My_Repository
-C, C++, Java
+C, C++, and Java Projects
